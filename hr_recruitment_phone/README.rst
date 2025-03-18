@@ -60,6 +60,7 @@ Contributors
 ------------
 
 -  Alexis de Lattre <alexis.delattre@akretion.com>
+-  Chau Le <chaulb@trobz.com>
 
 Maintainers
 -----------
